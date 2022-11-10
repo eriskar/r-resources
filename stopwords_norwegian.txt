@@ -697,3 +697,12 @@ cirka
 dn.no
 -0.5
 d2
+-finn.nr
+ltr
+och
+3-roms
+2-roms
+s.t
+ar
+gnr
+bnr
