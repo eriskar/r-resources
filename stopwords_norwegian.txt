@@ -656,3 +656,7 @@ små
 show
 ofr
 p-rom
+anders
+brukt
+lenger
+gitt
