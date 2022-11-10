@@ -678,3 +678,4 @@ imidlertid
 america
 aktiv
 passiv
+smb
