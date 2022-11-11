@@ -310,6 +310,7 @@ torsdag
 fredag
 lørdag
 søndag
+ndag
 an
 ntb
 kjære
@@ -724,3 +725,4 @@ imm
 00e1
 00e9
 00e4
+sist
