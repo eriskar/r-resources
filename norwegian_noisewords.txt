@@ -1581,6 +1581,7 @@ exotic
 ticketmaster.no
 05.25-06.00
 05.10-06.00
+operaen.no
 @demarkens
 20009dagens
 15000-
@@ -1595,6 +1596,19 @@ www.dehistoriske.no
 næringslivitirsdag 
 imandag
 20012dagens
+cal12
+meeting
+shareholders
+directors
 næringslivitorsdag
 næringslivionsdag
 www.estate.no
+tir-fre
+11-16
+krogsveen.no
+id2
+2016dn
+kvartal14 
+kvartal15
+fredags-
+avtotal
