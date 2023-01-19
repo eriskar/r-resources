@@ -1650,3 +1650,7 @@ fixed
 33r
 lifescience
 tillväxtmarknad
+akortet.no
+sondag
+ncis
+-1
