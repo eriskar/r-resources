@@ -432,3 +432,8 @@ www_wwww
 www
 na
 na_na
+fax
+e-mail
+fax_e-mail
+kout
+al_kout
