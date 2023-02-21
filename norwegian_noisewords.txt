@@ -1890,3 +1890,6 @@ vært
 vöre
 vört
 å
+følge
+føre
+skje
